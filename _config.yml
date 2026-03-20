@@ -1,0 +1,10 @@
+title: "Ghost Rider — PF1E Campaign Vault"
+description: "Pathfinder 1E character build for Ghost Rider (Johnny Blaze). Complete stat blocks, artifacts, lore, and design documents."
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
