@@ -16,26 +16,31 @@ system: Pathfinder 1E
 ### Primary Character Documents
 | File | Contents | Status |
 |------|----------|--------|
-| `ghost-rider-johnny-blaze.md` | Combined Johnny/GR stat block, final v3 | ✓ Final |
+| `ghost-rider.md` | Ghost Rider CR 19 stat block + combat guide | ✓ Final |
 | `zarathos-spirit-of-vengeance.md` | Zarathos stat block, final v3 | ✓ Final |
 | `the-hellcycle.md` | Vehicle stat block | ✓ Final |
 | `the-sword-of-uri-el.md` | Major artifact with Zarathos resonance | ✓ Final |
 | `canon-reference.md` | Clean canon lore (replaced Deep Dive) | ✓ Final |
-| `dm-and-player-guide.md` | Play/mechanics guide | ✓ Final |
+| `ghost-rider-player-dm-guidebook.md` | Complete class guidebook + DM guide | ✓ Final |
 
 ### Design Reference Documents
 | File | Contents |
 |------|----------|
 | `image-gallery.md` | All campaign images with file reference table |
-| `the-hellfire-chain.md` | Chain artifact stat block |
-| `the-hellfire-shotgun.md` | Dual stat blocks (Johnny/GR forms) |
-| `existential-dread-mechanic.md` | Soul Awareness tier system |
-| `penance-stare-design-reference.md` | Full damage scaling analysis (8 packages) |
+| `the-hellfire-chain.md` | Chain artifact — canon lore + leveling class + CR 19 NPC |
+| `the-hellfire-shotgun.md` | Dual stat blocks (Johnny/GR forms) — canon lore front-loaded |
+| `existential-dread-mechanic.md` | Soul Awareness tiers — canon + class version + NPC version |
+| `penance-stare-design-reference.md` | DC 40 Package 5 (locked) + class progression — rejected packages removed |
+| `the-medallion-of-power.md` | Soul battery — revised AC (2/3/4/5), capacity trigger, active spends |
+| `the-contract.md` | Mephisto's bargain — canon lore + Contract Immunity mechanic |
+| `johnny-blaze-the-host.md` | The man behind the skull — backstory, personality, CR 6 stat block |
+| `the-host-johnny-blaze.md` | The Host (Johnny Blaze) — backstory, personality, CR 6 stat block |
+| `the-contract.md` | The Contract — Mephisto's bargain + Contract Immunity |
+| `scaling-audit-results.md` | 10-check stress test, levels 1–20 — Medallion revision locked here |
+| `design-notes-revision-march-2026.md` | March 2026 Medallion changes (drop-in replacement for section 13) |
+| `spirit-of-vengeance-design-notes.md` | Master design notes — all 25 sections (update section 13 per revision) |
 | `stat-block-audit.md` | 26-item audit log |
-| `final-stat-blocks.md` | Consolidated stat blocks (all three forms) |
-| `corrected-stat-blocks.md` | Post-audit corrected stat blocks |
 | `canon-deep-dive.md` | Extended canon analysis and design notes |
-| `johnny-blaze-complete-character-document.md` | Full Johnny Blaze character document |
 | `master-reference.md` | This file — session state and quick reference |
 | `full-research-and-session-notes.md` | Complete research notes and session log |
 
@@ -429,6 +434,10 @@ Manual additions required after import (cannot be automated):
 - [x] Continue review of Johnny Blaze Foundry sheet for additional errors ✓
 - [x] Ghost Rider Foundry sheet (CR 19 form) — `ghost_rider_foundry_v1.json` ✓
 - [x] Zarathos Foundry sheet (CR 26 form) — `zarathos_foundry_v1.json` ✓ (70 items; Large size bug `lrg`→`lg` fixed)
+- [x] Scaling audit (10 checks) — completed March 2026. Medallion revised. See `scaling-audit-results.md` ✓
+- [x] Medallion AC/trigger revision — locked. See `design-notes-revision-march-2026.md` ✓
+- [x] Guidebook synced to locked design notes — all mechanics updated March 2026 ✓
+- [x] All topical MD files rewritten — canon front-loaded, locked mechanics only ✓
 
 ---
 
@@ -444,3 +453,10 @@ Manual additions required after import (cannot be automated):
 8. **Zarathos unholy aura removed** = predates angelic/demonic divide, carries empyreal
 9. **Willing Blade proficiency for Zarathos** = MWP (longsword) added as RAW option (Willing Blade acceptance could also rule it inherent; both valid)
 10. **Contract Immunity** = hard narrative rule, not a saving throw — no roll permitted when goal is to alter Johnny's nature/contract/values
+11. **Medallion AC bonus** = sacred AC by tier: +2 (L8), +3 (L12), +4 (L16), +5 (L20). Revised from +1 per 2 souls (March 2026 scaling audit)
+12. **Medallion capacity trigger** = DC 15 + current Medallion AC bonus, each round at max capacity. Revised from DC 20 + souls stored (March 2026 scaling audit)
+13. **Overburn curve** = 14/17/21/26/32/+7 per round. Hockey-stick, not linear. Medallion adds +1/soul to overburn DC (unchanged)
+14. **Heaven's Brand** = all d4s (1d4/1d4/2d4/3d4/4d4). Not d6s. Deliberately conservative
+15. **Rider's Mantle rounds** = CHA mod + class level. Not 4 + CHA + 2×level
+16. **Infernal Steed** = Hellfire Leap (not flight). No pounce off Leap. Mount is defensive only — no empyreal on mount attacks
+17. **Scaling audit complete** — 10 checks passed. See `scaling-audit-results.md`

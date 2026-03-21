@@ -26,8 +26,11 @@ system: Pathfinder 1E
 ![](images/Johnny's_1969_Raodster.png)
 *Johnny's 1969 mundane chopper — purple and flame custom paint, urban alley night.*
 
-![](images/Ghost%20Johnny2.png)
+![](images/Ghost_Johnny2.png)
 *Johnny mid-transformation — the Rider breaking through.*
+
+![](images/GR_Transformation.png)
+*Full transformation — half flesh, half burning skull, hellfire erupting.*
 
 ---
 
@@ -58,8 +61,8 @@ system: Pathfinder 1E
 ![](images/Zarathos_portrait.png)
 *Zarathos portrait — the ancient fire.*
 
-![](images/Zarathos%20in%20blue-white%20flames.png)
-*Zarathos in blue-white flames — full divine manifestation.*
+![](images/Zarathos_in_blue-white_flames.png)
+*Zarathos_in_blue-white_flames — full divine manifestation.*
 
 ---
 
@@ -80,6 +83,26 @@ system: Pathfinder 1E
 
 ![](images/Hellcycle2.png)
 *Hellcycle — side view, spiky demonic chassis, rain. Secondary portrait.*
+
+![](images/Hellmount.png)
+*Infernal steed — spectral warhorse in blue-white hellfire. Hell mount portrait.*
+
+---
+
+## The Medallion of Power
+
+![](images/Medallion_of_Power.png)
+*Medallion of Power — glowing artifact. Primary portrait.*
+
+![](images/Medallion_Activation.png)
+*Medallion activation — skeletal hand, souls swirling inside, blue-white fire.*
+
+---
+
+## The Contract
+
+![](images/Demonic_Contract.png)
+*Mephisto's contract — burned parchment, blood signature, hellfire edges.*
 
 ---
 
@@ -141,22 +164,24 @@ system: Pathfinder 1E
 
 | Filename | Subject | Primary Doc |
 |---|---|---|
-| `Johnny_Blaze1.png` | Johnny portrait | `johnny-blaze-complete-character-document.md` |
-| `Johnny_Blaze2_hellcycle.png` | Johnny + Hellcycle | `johnny-blaze-complete-character-document.md` |
+| `Johnny_Blaze1.png` | Johnny portrait | `the-host-johnny-blaze.md` |
+| `Johnny_Blaze2_hellcycle.png` | Johnny + Hellcycle | `the-host-johnny-blaze.md` |
 | `Johnny's_1969_Raodster.png` | Mundane chopper | `the-hellcycle.md` |
-| `Ghost Johnny2.png` | Mid-transformation | `johnny-blaze-complete-character-document.md` |
-| `Ghost_Rider.png` | GR portrait | `ghost-rider-johnny-blaze.md` |
-| `Ghost_Rider2.png` | GR combat | `ghost-rider-johnny-blaze.md` |
+| `Ghost_Johnny2.png` | Mid-transformation | `the-host-johnny-blaze.md` |
+| `GR_Transformation.png` | Full transformation scene | `the-host-johnny-blaze.md` |
+| `Ghost_Rider.png` | GR portrait | `ghost-rider.md` |
+| `Ghost_Rider2.png` | GR combat | `ghost-rider.md` |
 | `Ghost_Rider3.png` | GR reference | `canon-deep-dive.md` |
-| `GR_Haunt.jpg` | GR atmospheric | `dm-and-player-guide.md` |
+| `GR_Haunt.jpg` | GR atmospheric | `ghost-rider-player-dm-guidebook.md` |
 | `Penance_Stare.jpg` | Penance Stare eyes | `penance-stare-design-reference.md` |
 | `Zarathos.png` | Zarathos unbound | `zarathos-spirit-of-vengeance.md` |
 | `Zarathos_portrait.png` | Zarathos portrait | `canon-deep-dive.md` |
-| `Zarathos in blue-white flames.png` | Zarathos divine form | `zarathos-spirit-of-vengeance.md` |
+| `Zarathos_in_blue-white_flames.png` | Zarathos divine form | `zarathos-spirit-of-vengeance.md` |
 | `Existential_Dread_Husk.png` | Dread victim Tier 2–3 | `existential-dread-mechanic.md` |
 | `Existential_Dread3.png` | Dread victim Tier 4 | `existential-dread-mechanic.md` |
 | `Hellcycle1.png` | Hellcycle action | `the-hellcycle.md` |
 | `Hellcycle2.png` | Hellcycle side | `the-hellcycle.md` |
+| `Hellmount.png` | Infernal steed (horse) | `the-hellcycle.md` |
 | `Hellfire_Chain.png` | The Chain | `the-hellfire-chain.md` |
 | `Hellfire_Shotgun.png` | Winchester 1887 | `the-hellfire-shotgun.md` |
 | `Hellfire_Shotgun_w-GR.png` | GR firing | `the-hellfire-shotgun.md` |
@@ -164,6 +189,9 @@ system: Pathfinder 1E
 | `Lahat.png` | Sword of Uri-El | `the-sword-of-uri-el.md` |
 | `Uri-El1.png` | Uri-El angel | `the-sword-of-uri-el.md` |
 | `Heavens_Gate.png` | Heaven's Gate | `the-sword-of-uri-el.md` |
+| `Medallion_of_Power.png` | Medallion artifact | `the-medallion-of-power.md` |
+| `Medallion_Activation.png` | Medallion activation | `the-medallion-of-power.md` |
+| `Demonic_Contract.png` | Mephisto's contract | `the-contract.md` |
 | `Random_Demon_Lord.png` | Demon lord reference | `penance-stare-design-reference.md` |
 | `pf1e_str_reference.svg` | STR reference chart | `stat-block-audit.md` |
 | `str_chart_0_60.svg` | STR chart 0–60 | `stat-block-audit.md` |
