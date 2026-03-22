@@ -10,8 +10,6 @@ status: Final — March 2026
 
 ![](images/Demonic_Contract.png)
 
-![](images/Ghost_Rider3.png)
-
 > *"No. I'm gonna own this curse. And I'm gonna use it against you. Whenever innocent blood is spilt, it'll be my father's blood... and you'll find me there. A spirit of vengeance... fighting fire with fire."*
 > — Johnny Blaze
 

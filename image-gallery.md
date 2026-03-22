@@ -6,7 +6,7 @@ system: Pathfinder 1E
 
 # Ghost Rider Campaign — Image Gallery
 
-*All campaign images. Embed anywhere with `![](images/filename)`.*
+*All campaign images. Embed anywhere with standard markdown image syntax.*
 
 ---
 
@@ -132,10 +132,15 @@ system: Pathfinder 1E
 
 ---
 
-## Reference Charts
+## Campaign Art
 
 ![](images/Random_Demon_Lord.png)
-*Demon lord — horned skeletal figure draped in chains, burning among shattered ruins. Penance Stare scaling reference.*
+*Demon lord — horned skeletal figure draped in chains, burning among shattered ruins.*
+
+---
+
+## Reference Charts
+
 
 ![](images/pf1e_str_reference.svg)
 *PF1E Strength reference — comparative STR scores.*
@@ -149,7 +154,7 @@ system: Pathfinder 1E
 | `Johnny_Blaze1.png` | Johnny portrait | `the-host.md` |
 | `Johnny_Blaze2_hellcycle.png` | Johnny + Hellcycle | `the-host.md` |
 | `Johnny's_1969_Roadster.png` | Mundane chopper | `hellmounts.md` |
-| `Ghost_Johnny2.png` | Mid-transformation | `the-host.md` |
+| `Ghost_Johnny2.png` | Duality shot — Johnny above, Rider reflected | `the-host.md` |
 | `GR_Transformation.png` | Full transformation | `the-host.md` |
 | `Ghost_Rider.png` | GR portrait | `ghost-rider.md` |
 | `Ghost_Rider2.png` | GR combat | `ghost-rider.md` |
@@ -161,8 +166,8 @@ system: Pathfinder 1E
 | `Existential_Dread_Husk.png` | Dread victim | `existential-dread-mechanic.md` |
 | `Existential_Dread3.png` | Dread victim | `existential-dread-mechanic.md` |
 | `Hellcycle1.png` | Hellcycle action | `hellmounts.md` |
-| `Hellcycle2.png` | Hellcycle side | `hellmounts.md` |
-| `Hellmount.png` | Infernal steed (horse) | `hellmounts.md` |
+| `Hellcycle2.png` | Hellcycle — demonic skull face | `hellmounts.md` |
+| `Hellmount.png` | Phantom Rider on flaming horse | `hellmounts.md` |
 | `Hellfire_Chain.png` | The Chain | `hellfire-weapons.md` |
 | `Hellfire_Shotgun.png` | Winchester 1887 | `hellfire-weapons.md` |
 | `Hellfire_Shotgun_w-GR.png` | GR firing | `hellfire-weapons.md` |
@@ -173,5 +178,5 @@ system: Pathfinder 1E
 | `Medallion_Activation.png` | Medallion activation | `the-medallion-of-power.md` |
 | `Demonic_Contract.png` | Mephisto's contract | `the-contract.md` |
 | `Heavens_Gate.png` | Heaven's Gate | `the-sword-of-uri-el.md` |
-| `Random_Demon_Lord.png` | Demon lord ref | `penance-stare-design-reference.md` |
+| `Random_Demon_Lord.png` | Demon lord — campaign art | `penance-stare-design-reference.md` |
 | `pf1e_str_reference.svg` | STR reference | `npc-reference.md` |

@@ -7,7 +7,7 @@ status: Final — March 2026
 
 # Hellmounts — Vehicles and Creatures
 
-![](images/Hellcycle1.png)
+![](images/Hellmount.png)
 
 > *"The horse stopped needing to eat around the second week. It stopped needing to sleep around the fourth. By the sixth week, its hooves left scorch marks."*
 
@@ -24,6 +24,8 @@ The bond between Rider and Steed is genuine. The Hellcycle comes when Johnny cal
 ## Canon Steeds
 
 ### The Hellcycle (Johnny Blaze / Danny Ketch)
+
+![](images/Hellcycle1.png)
 
 ![](images/Hellcycle2.png)
 
@@ -48,10 +50,6 @@ The original. A living horse, wreathed in empyreal fire, galloping across the Ol
 ### The Ghost Flyer (Kenshiro Cochrane, 2099)
 
 A flying motorcycle from the future. Proves the concept adapts to any era's technology. The Spirit uses whatever is available.
-
-![](images/Hellmount.png)
-
-*A spectral warhorse — the original Hellmount, before motorcycles existed.*
 
 ---
 

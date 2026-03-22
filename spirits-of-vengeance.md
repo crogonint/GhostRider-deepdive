@@ -26,15 +26,13 @@ Each Spirit has its own personality, its own history, and its own relationship w
 
 ## Notable Spirits
 
-![](images/Zarathos.png)
-
 ### Zarathos — The Ancient Fire
 
 Zarathos is the most powerful Spirit of Vengeance. He is 21,000 years old at minimum, having possessed hosts across every civilization in human history. He was an angel of justice — a Spirit of Justice, specifically — before Mephisto trapped him, stole his memories, and drove him mad across millennia of imprisonment in human hosts.
 
 Zarathos is not evil in the way a demon is evil. He is *amoral* in the way a wildfire is amoral. He is vengeance without mercy — the mechanism, not the motive. He targets the most guilty creature in range. Everything else is scenery. A pickpocket gets slapped. A murderer gets the full treatment. A soul-eating demon gets torn apart with bare hands while Zarathos quotes scripture in a language that hasn't been spoken in ten thousand years.
 
-His Wisdom is intentionally low compared to his power tier. He is primordial destructive force, not wisdom or judgment. This is the weakness Mephisto exploited — using a soulless creature (Centurious) as a proxy, because Zarathos's soul-based powers are useless against the soulless. He can be tricked, trapped, redirected. He was enslaved because he couldn't perceive the trap. He is the ancient fire. He is not the ancient *mind*.
+He is primordial destructive force, not wisdom or judgment. This is the weakness Mephisto exploited — using a soulless creature (Centurious) as a proxy, because Zarathos's soul-based powers are useless against the soulless. He can be tricked, trapped, redirected. He was enslaved because he couldn't perceive the trap. He is the ancient fire. He is not the ancient *mind*.
 
 The line that defines him: *"I never needed Blaze. I never needed him. I... I need him."* He has been in Johnny Blaze so long that the two are genuinely interdependent. Without a soul to anchor him, Zarathos begins to die.
 

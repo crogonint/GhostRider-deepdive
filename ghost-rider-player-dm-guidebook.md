@@ -20,6 +20,27 @@ status: Updated March 2026 — all mechanics synced to locked design notes + Med
 
 ---
 
+## Table of Contents
+
+- [The Legend](#the-legend) — What you're getting into
+- [What You Are](#what-you-are) — Host, Rider, Spirit
+- [Class: Spirit of Vengeance](#class-spirit-of-vengeance) — Chassis, progression table, proficiencies
+- [Class Features](#class-features) — Every feature, level by level
+- [Part 3: Hellfire Instability](#part-3-hellfire-instability--the-d100-table) — The d100 table
+- [Part 4: Damage Parity](#part-4-damage-parity--making-sure-the-rider-belongs-at-the-table) — Benchmarks vs Fighter/Barbarian
+- [Part 5: The Ancient Fire](#part-5-the-ancient-fire--zarathos-surges) — Zarathos surge rules
+- [Part 6: Foundry VTT](#part-6-foundry-vtt-implementation) — Digital sheet setup
+- [Quick Reference Card](#quick-reference-card) — All DCs and formulas at a glance
+- [Part 7: DM Guide](#part-7-dm-guide--running-the-spirit-of-vengeance) — Scene framing, Dread, Penance, the Golden Rule
+- [Part 8: Player Tips & Tactics](#part-8-player-tips--tactics) — How to actually play this
+- [Part 9: Building Your Host](#part-9-building-your-host) — Sample builds, feat paths, multiclass
+- [Part 10: Alternative Flavors](#part-10-alternative-flavors) — Different hosts, different settings, different spirits
+- [Part 11: FAQ](#part-11-faq) — The confusing stuff, answered
+- [Paizo Reference Index](#paizo-reference-index) — Where to find the rules we reference
+- [Legal Notice](#legal-notice) — OGL/ORC
+
+---
+
 ## The Legend
 
 
@@ -307,6 +328,18 @@ The Gaze becomes the legendary Penance Stare. Same action, range, and DC.
 At Wis 0: catatonic. Soul consumed by the Medallion if space available.
 
 Uses per day: 3 + CHA mod.
+
+---
+
+### Soul Interrogation (Su) — Level 10
+
+> *"The dead don't lie. They don't have the energy."*
+
+Once per day at level 10 (twice at 14, three times at 18), the Host may touch a corpse that has been dead no longer than 1 day per class level and compel its soul to answer one question truthfully per use. The soul must be present (not consumed, not trapped, not already judged and moved on). The answer is brief — one or two sentences — and is spoken aloud by the corpse's mouth. The soul answers compulsively and cannot lie, but it can be evasive or incomplete if the question is poorly worded.
+
+This functions similarly to *speak with dead* (CRB p. 346) with two key differences: it bypasses the target's Will save entirely (the soul has no choice), and it only works on creatures that have committed evil acts (Sin Sight determines qualification). The corpse of an innocent cannot be interrogated — there is nothing for the divine judgment to compel.
+
+**Paizo Reference:** *Speak with dead*, Core Rulebook p. 346. This ability replaces the spell's Will save with automatic compliance, limits targets to evil-souled corpses, and reduces the scope to one question per use.
 
 ---
 
@@ -768,7 +801,7 @@ One character sheet. Standard PF1E character creation. Spirit of Vengeance as cl
 | Feature | Formula |
 |---------|---------|
 | Mantle rounds/day | CHA mod + class level |
-| Heaven's Brand | 1d4 / 1d4 / 2d4 / 3d4 / 4d4 (at levels 1/5/10/15/20) |
+| Heaven's Brand | 1d4 (L1-9) / 2d4 (L10-14) / 3d4 (L15-19) / 4d4 (L20) |
 | Existential Dread DC | 10 + 1/2 level + CHA |
 | Penance DC | 10 + 1/2 level + CHA |
 | Penance uses/day | 3 + CHA mod |
@@ -785,15 +818,15 @@ One character sheet. Standard PF1E character creation. Spirit of Vengeance as cl
 
 *How to actually run this at the table without burying yourself or your players.*
 
-### Johnny Blaze — Playing the Human
+### Playing the Human
 
-Johnny is the most underrated part of the build. Most tables want to skip to Ghost Rider immediately. Resist that.
+The Host in human form is the most underrated part of the build. Most tables want to skip to Ghost Rider immediately. Resist that.
 
-Johnny's scenes establish what Ghost Rider is protecting. If the players never see Johnny being human — buying coffee, arguing with a mechanic, failing to explain his eyes to a confused motel clerk — then Ghost Rider's mercy and restraint don't mean anything because there's nothing to contrast them against.
+The Host's human scenes establish what Ghost Rider is protecting. If the players never see the Host being a person — buying coffee, arguing with a mechanic, failing to explain their eyes to a confused innkeeper — then Ghost Rider's mercy and restraint don't mean anything because there's nothing to contrast them against.
 
-Burning Judgment Eyes are always active. He always knows evil is nearby. Play this as a constant low-grade weight — he sees the world's sins the way other people see bad weather. He's used to it. It doesn't stop him from being functional. But it never turns off.
+Burning Judgment Eyes are always active. The Host always knows evil is nearby. Play this as a constant low-grade weight — they see the world's sins the way other people see bad weather. Used to it. Functional despite it. But it never turns off.
 
-Transformation triggers are worth tracking. The DM should note when triggers occur and ask the player whether Johnny holds on or lets go. The decision to transform — or not to — is character drama.
+Transformation triggers are worth tracking. The DM should note when triggers occur and ask the player whether the Host holds on or lets go. The decision to transform — or not to — is character drama.
 
 ### Running Existential Dread Scene by Scene
 
@@ -803,7 +836,7 @@ The Dread aura is always on. Don't roll dice every six seconds.
 
 **Start of combat:** Roll saves for significant enemies in round one. For minions, apply the result narratively — some percentage are already shaken. Don't roll individually for thirty cultists. Roll once for the group and describe it.
 
-**Tier callouts:** When a Tier 4 or 5 entity enters the scene, make it a moment. A demon lord who has never shown fear in centuries suddenly cannot move. The DM should pause and describe this. It is a dramatic beat, not a bookkeeping entry.
+**Tier callouts:** When a powerful outsider or undead enters the scene, make it a moment. A demon lord who has never shown fear in centuries suddenly hesitates. An intelligent undead that thought itself beyond judgment realizes it isn't. The DM should pause and describe this. It is a dramatic beat, not a bookkeeping entry.
 
 ### The Penance Stare — Scene Framing
 
@@ -813,7 +846,7 @@ Frame it as the end of the scene, not a combat action. When Ghost Rider locks ey
 
 Give the target a voice during the Stare. They can't act, but they can speak. Some beg. Some bargain. Some curse. Some, when Wis is low enough that the defenses are down, say something true. This is the most interesting version — not the damage, but what comes out when the mask burns away.
 
-The 1 flat Wisdom on a successful save means even beings who resist are slowly worn down. A Greater Deity that makes every save still loses 1 Wis per round. At thirty-one rounds, catatonic. The Stare is patient in a way nothing else in the game is. Play that patience.
+The 1 flat Wisdom on a successful save (from the Greater Stare at level 15+) means even beings who resist are slowly worn down. The Stare is patient in a way nothing else in the game is. Play that patience.
 
 ### The Guilty, the Innocent, and the In-Between
 
@@ -825,13 +858,13 @@ Ghost Rider's immunity exceptions are the most narratively interesting feature.
 
 **The in-between:** Most real people. They have sinned in ways great and small. Ghost Rider does not usually use the Stare on ordinary sinners. That is not what he is for.
 
-### The Hellcycle at the Table
+### The Steed at the Table
 
-The Trail of Hellfire (10 ft. wide × 15 ft. tall, 6d6 empyreal, persists 1 minute) is a battlefield control tool. Two or three passes through a battlefield create walls that dictate where everyone can move.
+The Infernal Steed's Hellfire Leap (level 14) is a dramatic arrival tool. A Host who jumps 10× move speed to land in the middle of a fight is making a statement — use it for dramatic entrances and battlefield repositioning, not just as fast movement.
 
-True speed should be invoked for chase scenes. The Hellcycle outpaces any mundane pursuit without a roll. Ghost Rider either chooses to let something escape, or it doesn't escape. No middle ground.
+The steed cannot be permanently destroyed while the Spirit is bound. If enemies focus on it, they're wasting turns. The Host knows this.
 
-The bike cannot be permanently destroyed while Zarathos is bound. Enemies who focus on it are wasting turns. Ghost Rider knows this.
+At low levels (3-7), the steed is mostly flavor — it doesn't need to eat and it's creepy. That's fine. The steed is earning its keep by establishing atmosphere, not by contributing to DPR.
 
 ### The Sword of Uri-El — When and Why
 
@@ -856,4 +889,242 @@ The character is at its best when the *player* earns the right to use the Stare 
 
 ![](images/Ghost_Rider3.png)
 
+---
 
+## Part 8: Player Tips & Tactics
+
+*How to play the Spirit of Vengeance without drowning in options.*
+
+### Your First Session
+
+Transform once. Swing the chain once. Apply Heaven's Brand. Note the empyreal bypass. End the transformation. That's enough for session one. Don't try to use every feature — let the complexity build naturally as you level.
+
+### The Action Economy
+
+The Host's round structure while transformed is simpler than it looks:
+
+**Free actions:** Transform/end transformation, summon/dismiss chain.
+**Swift action:** Harvest a soul (evil kill), toggle chain reach (L15+), Medallion active spend (immediate).
+**Move action:** Hellfire Leap (mount, L14+), move normally.
+**Standard action:** Attack, Penance Glare/Gaze/Stare, Hellfire Breath.
+**Full-round:** Full attack with chain or weapon + Power Attack + Cornugon Smash.
+
+The most common swift-action crunch happens at level 15: toggling chain reach vs harvesting a soul vs spending a Medallion charge. You can only do one per round. Plan ahead.
+
+### The Fear Chain
+
+This is your bread and butter once you have the feats. The combo is:
+
+1. **Existential Dread** (always on) — enemy makes Will save or is affected
+2. **Power Attack** hit → triggers **Cornugon Smash** (free Intimidate to demoralize)
+3. Successful demoralize → **Imperious Command** → target **Cowers** 1 round (can't act, loses Dex to AC)
+4. After Cower ends → target is **Shaken** → your next hit triggers **Shatter Defenses** → target is **flat-footed**
+
+This chain works on anything with a soul — not just evil creatures. It's your Fighter-equivalent combo. Build for it.
+
+**Feat prerequisites (in order):** Power Attack (L1 bonus or regular), Intimidating Prowess (L2 bonus), Cornugon Smash (L5 bonus — requires Power Attack + Intimidate 6 ranks), Dreadful Carnage (L9 bonus — requires BAB +11, but available early via bonus feat), Imperious Command (requires Cha 15 + Intimidate focus), Shatter Defenses (requires Weapon Focus + Dazzling Display or Cornugon Smash).
+
+**Paizo References:** Cornugon Smash — *Cheliax, Empire of Devils* p. 28 or *Ultimate Combat* feat index. Imperious Command — *Ultimate Combat* p. 108. Shatter Defenses — Core Rulebook p. 133. Dreadful Carnage — *Advanced Player's Guide* p. 158.
+
+### Medallion Tactics
+
+**The fundamental loop:** Kill evil → harvest soul → bank for AC → feel the pressure → spend for survival → repeat.
+
+**Early (L8-11):** Capacity is 3. Fill it fast, then spend aggressively. Deny the Reaper (reroll a save) is your best friend. Don't sit at max capacity — the DC 17 surge trigger is a coinflip.
+
+**Mid (L12-15):** Capacity is 5. You can afford to hoard 3-4 for the AC bonus and keep one slot open to avoid the trigger. Cheat Death (2 souls) is worth saving for.
+
+**Late (L16+):** Capacity is 7-10. The trigger DC is manageable (DC 19-20) but failing it ends your day. The player who learns to ride at capacity-minus-one, spending and refilling, is the one who survives.
+
+**Never forget:** A surge empties the Medallion. Every soul gone. All AC gone. If you were at +5 sacred AC, you're suddenly at +0 and exhausted. Manage your risk.
+
+### When NOT to Transform
+
+The Host untransformed is a full-BAB martial with a masterwork weapon and a decent skill list. At low levels (1-4), transformation rounds are scarce — CHA 16 at level 3 gives you 6 rounds/day. Use them only when the situation demands it. Save rounds for the real fight.
+
+At higher levels, transformation becomes more abundant but Overburn is always tempting. The correct answer to "should I overburn?" is almost always "not yet." Round 1 overburn is a DC 14 coinflip. By round 3 it's DC 21 and the doubled empyreal dice have turned your brain into a gambling addict. That's working as intended. Zarathos *wants* you to push.
+
+---
+
+## Part 9: Building Your Host
+
+*The class is the fire. The build is the person holding the match.*
+
+### Ability Scores
+
+**CHA is king.** It drives transformation rounds, Penance DC, and Existential Dread DC. Everything that makes you a Ghost Rider rather than a Fighter keys off Charisma. 16 minimum, 18 if you can get it.
+
+**STR is your damage stat.** Full BAB, Power Attack, chain and weapon damage. You're a melee combatant — don't dump it.
+
+**CON is survival.** d10 HD, Hellfire Breath DC, and you need to absorb overburn damage (1d6/round, unreducible). 14 minimum.
+
+**WIS matters more than you think.** Will is a good save, but Overburn DCs and Medallion capacity triggers are Will saves. Every point of WIS mod is another 5% chance of keeping control. Don't dump it.
+
+**DEX and INT are dump-friendly.** You're in medium armor. 4+INT skills. Neither drives a class feature.
+
+**Recommended array (20 point buy):** STR 16, DEX 10, CON 14, INT 10, WIS 12, CHA 16.
+**Recommended array (25 point buy):** STR 16, DEX 12, CON 14, INT 10, WIS 12, CHA 18.
+
+### Race Recommendations
+
+**Human** — the canon choice. Bonus feat at L1 is enormous for this class (Power Attack immediately). Bonus skill point helps with Intimidate investment.
+
+**Half-Orc** — Intimidating racial bonus stacks with Intimidating Prowess. Darkvision. Orc Ferocity synergizes with the "fight until you drop or surge" gameplay. Excellent choice.
+
+**Tiefling** — thematic. Fire resistance (useless while transformed, useful in Host form). Darkness SLA. CHA penalty on some variants hurts.
+
+**Aasimar** — the irony of a celestial-touched soul bonded to a corrupted angel is excellent roleplay fuel. CHA bonus. Daylight SLA.
+
+**Paizo Reference:** Race stats and alternate racial traits in the *Advanced Race Guide*.
+
+### Sample Feat Progression (Human, Fear Chain Build)
+
+| Level | Feat | Source |
+|-------|------|--------|
+| 1 (regular) | Power Attack | CRB |
+| 1 (human) | Weapon Focus (spiked chain) | CRB |
+| 2 (bonus) | Intimidating Prowess | CRB |
+| 3 (regular) | Cornugon Smash | UC |
+| 5 (bonus) | Dazzling Display | CRB |
+| 5 (regular) | Shatter Defenses | CRB |
+| 7 (regular) | Imperious Command | UC |
+| 9 (bonus) | Dreadful Carnage | APG |
+| 9 (regular) | Furious Focus | APG |
+| 11 (regular) | Lunge | CRB |
+| 12 (bonus) | Critical Focus | CRB |
+| 13 (regular) | Improved Critical (spiked chain) | CRB |
+| 15 (bonus) | Combat Reflexes | CRB |
+| 15 (regular) | Vital Strike | CRB |
+| 17 (regular) | Improved Vital Strike | CRB |
+| 18 (bonus) | Greater Vital Strike | CRB |
+| 19 (regular) | Dodge | CRB |
+
+This build prioritizes the fear chain (online by level 7) and then shifts to Vital Strike for single-hit burst damage with the chain's 20 ft. reach (level 15+).
+
+### Multiclass Considerations
+
+The Spirit of Vengeance is a 20-level class with a capstone (Spirit Unchained — unlimited transformation, voluntary surge). Dipping out costs you capstone access and delays the Medallion, Penance progression, and mount upgrades.
+
+**Worth considering (1-2 levels):** Fighter (bonus feat, weapon training), Cavalier (mount synergy, Challenge), Bard (Inspire Courage stacks with Existential Dread's ally bonus).
+
+**Avoid:** Full casters (the class has no casting synergy), Barbarian (rage + transformation = conflicting activated abilities), Paladin (alignment conflict — any non-lawful vs lawful good).
+
+---
+
+## Part 10: Alternative Flavors
+
+*Ghost Rider is a mantle, not a person. Every Host is different. Every Spirit is different. Make it yours.*
+
+### The Reluctant Host
+
+The canon Johnny Blaze archetype. Didn't want the power. Fights the Spirit constantly. Transforms only when forced to. This Host prioritizes WIS (resist overburn, resist surge) and plays conservatively — short transformation bursts, minimal overburn, aggressive Medallion spending. They're terrified of what they become. That terror is the character.
+
+### The Willing Vessel
+
+Alejandra Jones — raised to be a Host. This character embraces the fire. They transform early and often, push overburn deliberately, and view the surge not as a failure but as an escalation. High CHA, lower WIS. They trust the Spirit. Whether the Spirit deserves that trust is the story.
+
+### The Vengeance Seeker
+
+The Host who *wants* the power — not for justice, but for revenge. Something terrible happened to them, and the Spirit offered the means to make it right. This is the darkest version. They weaponize the Penance Stare, hoard Medallion souls, and push overburn without hesitation. At high levels, the question becomes: has the Host become the thing they hunt?
+
+### The Mounted Knight
+
+Choose a horse (or griffon, dire wolf, etc.) instead of a vehicle. Play the class as a cavalry build — Spirited Charge, Ride-By Attack, Mounted Combat. The Infernal Steed upgrades stack with the mount's natural abilities. At level 14, Hellfire Leap lets your griffon jump 500+ feet — effectively a pouncing bomber run. This is the Carter Slade path.
+
+### The Gunslinger Host
+
+If your setting allows firearms (see *Ultimate Combat* p. 135), the Host can be a gunslinger archetype. The masterwork starting weapon is a firearm. Heaven's Brand applies to ranged attacks. The Hellfire Chain is still available for melee, but the Host opens with gunfire and reserves the chain for soul binding and crowd control.
+
+### Non-Western Settings
+
+The mantle predates the Old West, the combustion engine, and organized religion. A samurai Host riding a ki-infused warhorse. A Vudrani monk Host with no weapon (natural attacks + Heaven's Brand). A Chelish noblewoman Host who transforms in a ballroom full of Asmodean priests. The Spirit adapts to anyone. The fire doesn't care about your culture — it cares about your guilt.
+
+---
+
+## Part 11: FAQ
+
+*The stuff that trips people up.*
+
+**Q: Can I use the Penance Stare on someone who isn't evil?**
+A: You can use it on anyone with a soul who has committed evil *acts*. Alignment doesn't matter — acts do. A Neutral Good merchant who murdered his business partner qualifies. A Chaotic Evil goblin that has only stolen food does not. Sin Sight (level 3) tells you who qualifies.
+
+**Q: Does Heaven's Brand apply to ranged attacks?**
+A: Yes. ALL attacks while transformed. Melee, ranged, natural, improvised. If you're throwing a rock, that rock deals empyreal damage.
+
+**Q: Can the Hellfire Chain hit the same target as my normal weapon in a full attack?**
+A: Only if you're two-weapon fighting (which requires the feats and takes penalties). In a standard full attack, you use either the chain or your weapon, not both. The chain is an *option*, not a free extra.
+
+**Q: What happens to Medallion souls if I die?**
+A: They're released to the afterlife. On resurrection, the Medallion is empty.
+
+**Q: Can I overburn in the first round of transformation?**
+A: No. Overburn only starts when you've used all your daily rounds. At level 3 with CHA 16, that's 6 rounds. You must exhaust those first.
+
+**Q: Is empyreal damage fire damage for the purpose of vulnerabilities?**
+A: No. Empyreal is its own descriptor. Creatures vulnerable to fire take normal empyreal damage, not increased. Creatures immune to fire also take normal empyreal damage. It bypasses everything in both directions.
+
+**Q: Can I transform in medium or heavy armor?**
+A: Medium, yes (you're proficient). Heavy, no (not proficient — and the Rider's aesthetic is leather and chains, not plate). The transformation doesn't destroy armor, but the DM may rule that heavy plate doesn't fit the same way after your body changes.
+
+**Q: Does Existential Dread affect my party?**
+A: It provides a *bonus* to allies. The atmospheric effects (plants wilting, water steaming) happen to everyone, but the mechanical effect is exclusively beneficial to your party. The Host is a force multiplier.
+
+**Q: Can Zarathos be reasoned with during a surge?**
+A: Not by the Host. The DM controls Zarathos, and Zarathos is single-minded — he targets the most guilty and doesn't negotiate. However, another PC could attempt to reach the Host inside (Diplomacy DC 22 + souls stored) to end the surge early. This is a roleplay opportunity, not a reliable tactic.
+
+**Q: The Medallion capacity trigger fires every round of combat at max capacity. What if I'm in a long fight?**
+A: Spend a soul. Any spend drops you below capacity and kills the trigger. This is intentional — the Medallion is designed to be spent, not hoarded. If you're stubbornly holding at max capacity, you deserve every failed Will save.
+
+**Q: Can I play this class in Pathfinder Society?**
+A: No. This is a custom class for home games. It uses a custom damage descriptor ([empyreal]), a custom resource system (Medallion souls), and a mechanic where the DM controls your character (Zarathos surge). None of these are PFS-legal.
+
+---
+
+## Paizo Reference Index
+
+This class references rules from the following Pathfinder 1E publications:
+
+| Rule | Source | Page |
+|------|--------|------|
+| Base class construction (BAB, saves, HD) | *Core Rulebook* | Ch. 3 |
+| Spiked chain | *Core Rulebook* | p. 142 |
+| Power Attack | *Core Rulebook* | p. 131 |
+| Shatter Defenses | *Core Rulebook* | p. 133 |
+| Vital Strike chain | *Core Rulebook* | p. 136 |
+| Cornugon Smash | *Ultimate Combat* | p. 93 |
+| Imperious Command | *Ultimate Combat* | p. 108 |
+| Dreadful Carnage | *Advanced Player's Guide* | p. 158 |
+| Furious Focus | *Advanced Player's Guide* | p. 161 |
+| Firearms rules | *Ultimate Combat* | p. 135 |
+| Mounted Combat feats | *Core Rulebook* | p. 131 |
+| Spirited Charge | *Core Rulebook* | p. 134 |
+| Fear conditions (shaken/frightened/panicked/cowering) | *Core Rulebook* | p. 563-564 |
+| Intimidate (demoralize) | *Core Rulebook* | p. 99 |
+| Wisdom damage/drain | *Core Rulebook* | p. 555 |
+| Speak with dead (Soul Interrogation basis) | *Core Rulebook* | p. 346 |
+| Detect evil | *Core Rulebook* | p. 266 |
+| Energy descriptors | *Core Rulebook* | p. 209 |
+| Mount/companion rules | *Core Rulebook* | p. 51-53 |
+| Vehicle rules (if used) | *Ultimate Combat* | p. 170 |
+| Race options | *Advanced Race Guide* | Full book |
+
+---
+
+## Legal Notice
+
+This document is a fan-created supplement for Pathfinder First Edition. It is not published, endorsed, or affiliated with Paizo Inc. Ghost Rider, Johnny Blaze, Zarathos, Mephisto, and all related Marvel characters are the property of Marvel Entertainment / The Walt Disney Company and are used here for fan purposes only.
+
+### Open Game License v1.0a
+
+This product uses the Open Game License (OGL) v1.0a as published by Wizards of the Coast. The following items are designated as Open Game Content: all class mechanics, progression tables, feat references, ability DCs, and game statistics. The following items are designated as Product Identity: all flavor text, character names, setting-specific lore, image descriptions, and the Spirit of Vengeance class name.
+
+The full OGL text is available at: https://paizo.com/pathfinder/compatibility/ogl
+
+### Pathfinder Compatibility
+
+This product is compatible with Pathfinder First Edition but is **not** a Paizo product. Pathfinder is a registered trademark of Paizo Inc. The Pathfinder Compatibility Logo is used under the Pathfinder Compatibility License. See https://paizo.com/pathfinder/compatibility for more information.
+
+---
+
+*"No. I'm gonna own this curse. And I'm gonna use it against you. Whenever innocent blood is spilt, it'll be my father's blood... and you'll find me there. A spirit of vengeance... fighting fire with fire."*
+— Johnny Blaze
