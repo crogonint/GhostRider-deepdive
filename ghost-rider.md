@@ -1,189 +1,71 @@
 ---
-title: "Ghost Rider — Spirit of Vengeance"
-aliases: ["Ghost Rider", "The Rider", "Spirit of Vengeance"]
-tags: [pf1e, creature, outsider, empyreal, cr19, ghost-rider, marvel-rpg]
+title: "Ghost Rider"
+tags: [pf1e, ghost-rider, lore, class]
 system: Pathfinder 1E
-status: Final — v4, March 2026. Johnny Blaze human form moved to the-host-johnny-blaze.md.
+status: Final — March 2026
 ---
 
 # Ghost Rider
 
 ![](images/Ghost_Rider.png)
 
-> *"In the presence of evil, I change into a monster, and I prey on the wicked, and I suck out their souls. And you don't want to be around when that happens."*
-> — Johnny Blaze
+> *"It's said that the West was built on legends. Tall tales that help us make sense of things too great or too terrifying to believe. This is the legend of the Ghost Rider. Story goes that every generation has one. Some damned soul, cursed to ride the earth, collecting on the Devil's deals."*
+> — Carter Slade, the Caretaker
 
 ---
 
-## Canon
+## The Mantle
 
-Ghost Rider is what happens when Johnny Blaze transforms. Flesh burns away. The skull catches fire. Weapons ignite with empyreal flame. The leather jacket and boots become part of him — Hell-tempered, fireproof, harder than any mundane armor. The chain appears. The eyes burn orange-black. Every living thing in the room knows something has changed, and none of them are comfortable with what it changed into.
+Ghost Rider is not a person. It is a title, a mantle, a divine office that has been filled by different souls across millennia. Every generation produces a new Rider — someone desperate enough to make a deal, or unlucky enough to inherit one. The Host provides the soul. The Spirit provides the fire. The result is something that is neither human nor divine, neither angel nor demon — divine judgment given a spine and a weapon and an extremely bad attitude.
 
-The transformation is not a summoning. Johnny is still in there — his mind, his feats, his skills, his stubborn refusal to let the fire win. But Zarathos is in there too, and the composite form reflects both: Johnny's precision and restraint layered over Zarathos's ancient fury and limitless power. The result is controlled ferocity. Ghost Rider is terrifying but purposeful. He targets the guilty. He ignores the innocent. He judges with absolute certainty because Sin Sight shows him exactly what every creature in the room has done, and the fire responds accordingly.
+The Ghost Rider is always a composite being. A human soul bonded to a Spirit of Vengeance — an ancient entity of divine judgment older than the angelic-demonic divide. The Host's personality, skills, and moral compass shape how the Rider acts. The Spirit's power, fury, and hunger for justice determine what the Rider *can* do. The tension between the two is the story.
 
-Ghost Rider's hellfire is described in Marvel canon as *"empyreal"* — from the Empyrean, the highest heaven. It is divine judgment fire. Not holy, not unholy — a third category that bypasses everything. Demons immune to holy fire, angels immune to unholy fire, elementals immune to fire — none of it matters. The empyreal descriptor cuts through all of it. The only things immune are true constructs (no soul to burn), the genuinely innocent (nothing to judge), and the soulless (Centurious-type beings — Ghost Rider's hard counter).
+When the Rider manifests, the Host's flesh burns away. The skull catches fire. Weapons ignite with empyreal flame — a supernatural fire described in Marvel canon as *"empyreal,"* from the Empyrean, the highest heaven. It is not holy fire. It is not unholy fire. It is divine judgment fire, a third category that burns the soul of the guilty and passes harmlessly through the innocent. Demons immune to holy fire burn. Angels immune to unholy fire burn. The only things immune are the soulless, the genuinely innocent, and true constructs with no soul to judge.
 
-The Penance Stare is the signature. Lock eyes with a guilty creature, and it relives every pain it ever inflicted on any being — simultaneously, in totality. Mortals last about one round. Demon Lords endure ten to fifteen. Greater Deities can hold out for thirty, but they feel every one of those rounds. The Stare requires a soul to function. Blackheart resisted it because he had none. It's the only defense that works.
+Every Rider shares certain traits: the flaming skull, the empyreal fire, the Penance Stare (or some variant of soul-judgment), supernatural resilience, and an Infernal Steed — whatever vehicle or mount the Host was bonded to, transformed by the Spirit's power. But each Rider expresses these differently based on who they were before the fire found them.
 
-Ghost Rider has been depicted in canon standing down cosmic threats, driving demon lords to their knees with his presence alone, and walking through Mephisto's domain as if he owned it. Doctor Strange called the power "godlike." He wasn't exaggerating. He was being precise.
+---
+
+## Notable Ghost Riders
 
 ![](images/Ghost_Rider2.png)
 
----
+**Johnny Blaze** — the most iconic Rider. Carnival stunt rider who sold his soul to Mephisto at seventeen to save his dying father. Bonded to Zarathos, the most powerful Spirit of Vengeance. Johnny is defined by stubborn willpower — he holds the leash on an entity that Doctor Strange described as "godlike," and he does it through sheer refusal to let go. His Steed is the Hellcycle, a motorcycle that no longer obeys physics. His signature weapons are the Hellfire Chain and dual Hellfire Shotguns.
 
-## PF1E Adaptation
+**Danny Ketch** — Johnny's brother, bonded to Noble Kale (a different Spirit of Vengeance). Danny's transformation was triggered by contact with a mystical gasoline cap on a motorcycle. His version of the Penance Stare is more refined than Johnny's — Danny can choose to heal souls rather than destroy them, a power Johnny's Spirit (Zarathos) does not possess. Danny's Rider is often depicted as more controlled and less feral than Johnny's.
 
-The CR 19 stat block below represents Ghost Rider at the Composite Default — Johnny and Zarathos in balance. The Zarathos Dial (see Running Ghost Rider below) allows the DM to scale between three modes: Blaze Leading (CR 17, merciful), Composite (CR 19, balanced), and Zarathos Surging (CR 21, unleashed).
+**Robbie Reyes** — a young mechanic from East Los Angeles bonded to the ghost of his serial-killer uncle, Eli Morrow. Robbie's Steed is a 1969 Dodge Charger (the Hell Charger), not a motorcycle. His Ghost Rider form is visually distinct — a smooth, helmet-like skull rather than the classic flaming skull. Eli Morrow is NOT a Spirit of Vengeance — he's a human ghost, which makes Robbie's situation fundamentally different from Johnny's or Danny's. Robbie is fighting a human evil inside him, not a divine one.
 
-**Inheritance chain:** Johnny Blaze (CR 6, Expert 7, Human) transforms into Ghost Rider (CR 19, 18 HD, Medium Outsider). Ghost Rider surges into Zarathos (CR 26, 26 HD, Large Outsider). Each form retains all abilities of forms below it.
+**Alejandra Jones** — briefly bonded to Zarathos after Johnny Blaze was separated from him. Alejandra was raised by a cult specifically to be a vessel for the Spirit. Her version demonstrated weather manipulation and teleportation abilities that Johnny's version did not, suggesting the Spirit expresses differently through different Hosts.
 
-**Johnny Blaze's human form** stat block is in [The Host (Johnny Blaze)](the-host-johnny-blaze.md).
+**Carter Slade (the Caretaker)** — the original Old West Ghost Rider. His Steed was a flaming horse, not a motorcycle. Carter passed the mantle to Johnny Blaze in the 2007 film, riding alongside him one final time before disintegrating at dawn. His existence proves the mantle predates the combustion engine.
 
----
-
-## CR 19 Stat Block
-
-| | |
-|--|--|
-| **CR** | 19 (XP 204,800) |
-| **Alignment** | CN |
-| **Type** | Medium Outsider (chaotic, empyreal, extraplanar, fire, native) |
-| **Init** | +6 |
-| **Senses** | Burning Judgment Eyes (true seeing, sin sight, detect evil, aura sight); Perception +31 |
-| **AC** | 32 (touch 20, FF 28) — +4 Dex, +12 natural, +6 deflection |
-| **HP** | 319 (18d10+198+18); Regen 10 (Heaven-forged weapons) |
-| **Fort/Ref/Will** | +24 / +17 / +20 |
-| **SR** | 30; Channel Resistance +4 |
-| **DR** | 10/cold iron and good |
-| **Speed** | 40 ft.; 120 ft. tactical aboard Hellcycle |
-| **BAB/CMB/CMD** | +18 / +32 (+36 grapple, +36 disarm) / 47 |
-
-### Abilities
-
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 39 (+14) | 18 (+4) | 32 (+11) | 13 (+1) | 22 (+6) | 24 (+7) |
-
-### Immunities & Defenses
-
-Immune: fire, empyreal (self), fear, death effects, disease, poison, fatigue, exhaustion, bleed.
-Resist: acid 20, cold 20, electricity 20.
-DR 10/cold iron and good. Regen 10 (suppressed by Heaven-forged or blessed weapons).
-Weakness: Heaven-forged weapons bypass DR and suppress regen; a sincerely spoken loved one's name forces DC 22 Will or cannot attack that creature for 1 minute.
-
-### Three Auras (Always Active)
-
-**1. Aura of Existential Dread (Su) — 60 ft.** DC 30 Will, soul-based, not mind-affecting. Full tier table in [Existential Dread](existential-dread-mechanic.md). Bypasses all fear/mind-affecting immunity for souled creatures.
-
-**2. Hellfire Aura (Su) — 10 ft.** 4d6 empyreal/round, DC 30 Ref half. May be suppressed (free action). Cannot be suppressed in Zarathos Surging mode.
-
-**3. Smoldering Presence (Su) — 30 ft.** Plants wilt. Water steams. Animals flee. No damage, no save. Purely atmospheric.
-
-### Attacks
-
-**Melee:** Hellfire chain +32/+27/+22/+17 (2d6+16, 19–20, plus 3d6 empyreal) OR 2 slams +31 (2d6+14 plus 2d6 empyreal) OR bite +31 (1d8+14 plus 2d6 empyreal)
-
-**Power Attack:** Chain +24/+19/+14/+9 (2d6+32 plus 3d6 empyreal)
-
-**Ranged:** Hellfire blast +22 touch (8d6 empyreal, 60 ft.) OR Hellfire Shotgun +22 touch (6d6 empyreal, 40 ft.) OR chain whip +22 touch (30 ft., soul binding + 3d6 empyreal/round)
-
-**Reach:** 5 ft. (20 ft. with chain via Lunge)
-
-### Signature Abilities
-
-**Penance Stare + Judgment Lock (Su):** DC 40 Will. Fail: paralyzed + 4d4 Wis/round. Success: shaken 1d4 rds + 1 Wis flat/round. At Wis 0: catatonic, soul consumed. See [Penance Stare](penance-stare-design-reference.md).
-
-**Soul Binding (Su):** DC 30 Fort on any chain hit. Failure: paralyzed, no magical movement, −8 concentration/CL, 3d6 empyreal/round. See [Hellfire Chain](the-hellfire-chain.md).
-
-**Cold Hellfire Touch (3/day):** 4d6 Wis damage, DC 30 Fort half. No physical damage. Burns the soul only.
-
-**Hellfire Nova (1/day):** 10d6 empyreal, 30 ft. burst, DC 30 Ref half. Zarathos Surging: 15d6, no save.
-
-**Brimstone Impact (1/day):** 20d6 empyreal + 10d6 bludgeoning, 30 ft. radius. DC 30 Ref half (empyreal), DC 28 Ref half (bludgeoning). DC 30 Fort or prone + pushed 2d6×5 ft.
-
-**Hellfire Breath (3/day):** 6d8 empyreal, 30 ft. cone, DC 26 Ref half.
-
-**Trail of Hellfire:** Active at Hellcycle speed 60+ ft. 10 ft. wide × 15 ft. tall, 6d6 empyreal (DC 25 Ref half), persists 1 minute.
-
-### Hellfire Shotguns (Ghost Rider Form)
-
-Full stat blocks in [Hellfire Shotgun](the-hellfire-shotgun.md). Summary: +22 touch, 6d6 empyreal, 40 ft., 2 shots/round (Winchester) or 4/round (Remington). DC 30 soul-based fear. Point-Blank Soul Blast within 10 ft. = 8d6 + DC 40 Will or Judgment Lock.
-
-### Special Qualities
-
-**Blaze's Will (Ex):** Alignment remains CN. 1/day negate compulsion to harm innocents (DC 22 Will, free action). No CR cap on resistance.
-
-**Undying (Ex/Su):** Cannot be permanently slain while Zarathos is bound. Falls at 0 HP; rises in 1d10 rounds at 1 HP. Exceptions: Heaven-forged weapon, 9th-level good divine spell (DC 30 CL check), or divine artifact.
-
-**Unbreakable Bond (Ex):** Sealed by archangel Zadkiel and the One Above All. Mephisto cannot alter terms. No cosmic entity can steal or break the bond.
-
-**Hell-Tempered Leathers (Ex):** +2 leather (human) / +3 ghost touch leather (GR). Immune to all fire. Hardness 15. Cannot be removed.
-
-### Spell-Like Abilities (CL 18th)
-
-**Constant:** detect evil, burning judgment eyes, protection from good.
-**At will:** bestow curse, cause fear, darkness, greater dispel magic, greater teleport, inflict serious wounds, suggestion (evil/guilty only).
-**3/day:** break enchantment (self, compulsions), contagion, fear, hellfire breath, inflict critical wounds, unholy blight.
-**1/day:** banishment (demons only), holy aura (auto on Surge), plane shift (self + Hellcycle), time stop.
-
-### Feats (25)
-
-Cleave, Combat Reflexes, Cornugon Smash, Diehard (Blaze), Dodge, Dreadful Carnage, Endurance (Blaze), Furious Focus, Great Cleave, Great Fortitude, Imperious Command, Improved Bull Rush, Improved Critical (spiked chain), Improved Disarm, Improved Grapple, Indomitable Faith (Blaze), Intimidating Prowess, Iron Will, Lightning Reflexes, Lunge, Power Attack, Shatter Defenses, Toughness (Blaze), Weapon Focus (spiked chain), Weapon Specialization (spiked chain).
-
-### Skills
-
-Intimidate +42, Perception +31, Sense Motive +31, Knowledge (planes) +22, Knowledge (religion) +22, Bluff +32, Ride +29, Stealth +25, Acrobatics +22.
-
-Languages: Common, Abyssal, Celestial. Telepathy 60 ft.
+**Noble Kale** — a Spirit of Vengeance distinct from Zarathos. Kale was a human who became a Spirit after death, bonded to the Kale family line across generations before settling on Danny Ketch. Uri-El (the archangel) personally intervened in a dispute between Mephisto and Kale over the terms of the bond — nearly triggering a war between Heaven and Hell over one soul.
 
 ---
 
-## The Zarathos Dial — DM Scaling
+## The Transformation
 
-| Mode | Trigger | CR | Key Changes |
-|------|---------|-----|-------------|
-| **Blaze Leading** | Near innocents, moral anchor | 17 | −2 all DCs; Hellfire Aura suppressed; Penance vs guilty only; spares non-combatants |
-| **Composite (Default)** | Standard combat | 19 | As statted |
-| **Zarathos Surging** | Overwhelming evil, Blaze fails DC 22 Will | 21 | Holy Aura auto; Nova 15d6 no save; Cold Hellfire freely; Hellfire Aura unsuppressible |
+The transformation is not a summoning. The Host is still in there — their mind, their skills, their feats, their stubborn humanity. But the Spirit is in there too, and the composite form reflects both. The Host's precision and restraint layered over the Spirit's ancient fury and limitless power. The result is controlled ferocity — terrifying but purposeful.
 
----
+While transformed: flesh burns away, weapons ignite, the Steed transforms, and every living thing in the vicinity knows something has changed. Plants wilt. Water steams. Animals flee. Candles die. Every creature with a soul feels the weight of its own choices. This is not fear — it is recognition. The guilty know what they're looking at even if they can't name it.
 
-## Running Ghost Rider at the Table
-
-**Ghost Rider is not a combat optimizer. He is a narrative pressure system.** His aura is always on. His presence transforms every scene before dice roll. The DM should describe what his arrival does to the room — plants dying, water steaming, every candle going out — before anyone reaches for initiative.
-
-**Combat Priority Tree:**
-
-Round 1 — Establish presence. Dread aura is already working. If powerful spellcaster present: open with chain (Soul Binding removes mobility, −8 concentration). If powerful martial: Penance Stare (move action Intimidate for eye contact, standard to lock).
-
-Round 2 — Exploit. Cornugon Smash is free on Power Attack hits. Against targets already shaken from aura: demoralize → Cower (Imperious Command) → flat-footed (Shatter Defenses). Great Cleave chains into adjacent targets.
-
-Penance Stare — Don't use on the first available target. Use it on the *right* target. Frame it as the end of the scene, not a combat action. Give the target a voice during the lock — some beg, some bargain, some say something true when the mask burns away.
-
-**What Ghost Rider does NOT do:** Harm the innocent (empyreal fire passes through them). Use the Stare on the guiltless (finds nothing). Pursue non-evil fleeing targets. Negotiate on behalf of Hell.
-
-**Dreadful Carnage — remember it exists.** Every kill shakes all enemies within 30 ft. In crowd fights this does enormous work that's easy to forget.
-
-**Things that happen without actions:** Existential Dread aura, Smoldering Presence, Burning Judgment Eyes, Hellfire Aura damage to adjacent, Dreadful Carnage on kill.
-
-**Things commonly forgotten:** Shatter Defenses (shaken = flat-footed when hit), Cornugon Smash (free on PA hits), Cold Hellfire Touch (Wis damage without eye contact), Soul Bind fires on any chain hit (not just crits).
-
----
-
-## Playing Against Ghost Rider
-
-If Ghost Rider is an NPC antagonist, the party's best tools:
-
-- **Soulless entities** — suppress most signature abilities, impose −4 within 30 ft.
-- **Heaven-forged weapons** — suppress regeneration.
-- **Deny soul consumption** — don't let things die near him.
-- **The loved one's name** — DC 22 Will or cannot attack that creature for 1 minute.
-- **Soul Hunger attrition** — deny souls over multiple sessions. At −10 to all rolls, he's beatable.
-
-Worst instincts: out-damage without suppressing regen, engage at close range without addressing Hellfire Aura, use fear or mind-affecting effects (immune), split the party inside Dread range.
-
----
+The transformation has limits. The Host can only sustain it for so long before the Spirit's hunger begins to overwhelm their will. Push past the limit, and the Spirit takes the wheel entirely. That's when things get dangerous — not for the enemies, but for everyone.
 
 ![](images/GR_Haunt.jpg)
 
-*"No. I'm gonna own this curse. And I'm gonna use it against you."*
+---
+
+## Our Adaptation — The Spirit of Vengeance Class
+
+The Spirit of Vengeance is a custom PF1E class built to let a player BE a Ghost Rider at the table. One class, one character sheet. The player builds the Host — race, stats, feats, skills, personality. The transformation is a class feature (Rider's Mantle), not a separate creature. Like Barbarian Rage, not like a summoned monster.
+
+The class captures the core Ghost Rider experience: limited transformation that tempts you to push past your limits (Overburn), empyreal fire that bypasses everything but punishes nothing innocent (Heaven's Brand), a signature weapon that scales with you (the Hellfire Chain), a fear aura that makes your party stronger (Existential Dread), a soul-judgment ability that tells a five-tier story from "I can scare you" to "you can't look away" (the Penance progression), a soul battery that forces constant tactical decisions (the Medallion of Power), and a Steed that transforms alongside you.
+
+The Host is deliberately weaker than a Fighter in raw damage at every tier. The empyreal bypass, the fear chain, the Penance progression, the Medallion spends, and the narrative pressure of the aura make up the difference. Ghost Rider is not a combat optimizer. He is a narrative pressure system that also hits things.
+
+The full class — progression table, features, d100 Hellfire Instability table, damage parity benchmarks, and Zarathos surge rules — is in [the guidebook](ghost-rider-player-dm-guidebook.md).
+
+---
+
+*"I ride, and Hell follows with me."*
